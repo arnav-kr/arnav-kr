@@ -5,7 +5,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"></p>
+<p align="left"> <a href="https://twitter.com/arnavkr_"></a> </p>
 
 - 📫 How to reach me **arnav-kumar@googlegroups.com**
 
