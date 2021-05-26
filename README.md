@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arnav Kumar</h1>
 <h3 align="center">A Full Stack Web developer and Designer</h3>
 
+## GitHub Stats
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-kr" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact" alt="arnav-kr" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en" alt="arnav-kr" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&" alt="arnav-kr" /></p>
 
 <p align="left"> <a href="https://twitter.com/arnavkr_"></a> </p>
 
@@ -28,9 +36,4 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arnavkr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arnavkr" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact" alt="arnav-kr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en" alt="arnav-kr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&" alt="arnav-kr" /></p>
+<br>
