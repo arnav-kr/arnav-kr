@@ -3,15 +3,17 @@
 
 ## GitHub Stats
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-kr" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact" alt="arnav-kr" /></p>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en" alt="arnav-kr" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&" alt="arnav-kr" /></p>
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&)
+
+![Activity](https://activity-graph.herokuapp.com/graph?username=arnav-kr&theme=darkhub)
 
 <p align="left"> <a href="https://twitter.com/arnavkr_"></a> </p>
 
