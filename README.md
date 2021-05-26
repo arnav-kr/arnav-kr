@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-kr" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=4&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://twitter.com/arnavkr_" target="blank"><img src="https://img.shields.io/twitter/follow/arnavkr_?logo=twitter&style=for-the-badge" alt="arnavkr_" /></a> </p>
 
