@@ -7,17 +7,20 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact&theme=github_dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en&theme=github_dark)
 
-![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&theme=dark)
 
-![Activity](https://activity-graph.herokuapp.com/graph?username=arnav-kr)
+![Activity](https://activity-graph.herokuapp.com/graph?username=arnav-kr&theme=github)
 
-<p align="left"> <a href="https://twitter.com/arnavkr_"></a> </p>
 
-- 📫 How to reach me **arnav-kumar@googlegroups.com**
+## Best Repositories
+[![Shikijs](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=shikijs&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/shikijs)
+
+[![SoloLearn Code Previewer and Downloader](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=slcodepreview&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/slcodepreview)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -39,3 +42,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arnavkr"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arnavkr" /></a></p><br><br>
 <br>
+
+
+
+
+<p align="left"> <a href="https://twitter.com/arnavkr_"></a> </p>
+
+- 📫 How to reach me **arnav-kumar@googlegroups.com**
