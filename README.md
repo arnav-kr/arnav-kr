@@ -13,7 +13,7 @@
 
 ![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&)
 
-![Activity](https://activity-graph.herokuapp.com/graph?username=arnav-kr&theme=darkhub)
+![Activity](https://activity-graph.herokuapp.com/graph?username=arnav-kr)
 
 <p align="left"> <a href="https://twitter.com/arnavkr_"></a> </p>
 
