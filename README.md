@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Kumar</h1>
 <h3 align="center">A Full Stack Web developer and Designer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat" alt="arnav-kr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat&no-bg=true&margin-h=16" alt="arnav-kr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arnav-kr" alt="arnav-kr" /></a> </p>
 
