@@ -5,7 +5,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arnav-kr&label=Profile%20views&color=0e75b6&style=flat)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> </p>
 
 <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
 
