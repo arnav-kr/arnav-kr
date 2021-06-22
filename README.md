@@ -8,9 +8,8 @@
 <p align="center"> <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=arnav-kr&column=3&theme=nord&margin-w=5&margin-h=5&no-frame=true" /> </p>
 
 <p align="center"> <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=arnav-kr&show_icons=true&locale=en&layout=compact&theme=github_dark" /> </p>
-
-<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en&theme=github_dark" /> </p>
 <p align="center"> <img alt="Wakatime Stats" href="https://github-readme-stats.vercel.app/api/wakatime?username=arnavkr&theme=github_dark&layout=compact" /> </p>
+<p align="center"> <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=arnav-kr&show_icons=true&locale=en&theme=github_dark" /> </p>
 <p align="center"> <img alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=arnav-kr&theme=dark" /> </p>
 
 <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=arnav-kr&theme=github" /> </p>
