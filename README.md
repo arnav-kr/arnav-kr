@@ -21,7 +21,10 @@
 <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=arnav-kr&theme=github" /> </p>
 
 
-## Best Repositories
+## Featured Repositories
+
+[![SoloAlert](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=soloalert&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/soloalert)
+
 [![Shikijs](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=shikijs&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/shikijs)
 
 [![SoloLearn Code Previewer and Downloader](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=slcodepreview&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/slcodepreview)
