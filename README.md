@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arnav Kumar</h1>
 <h3 align="center">A Full Stack Web developer and Designer</h3>
 
-## http://arnavkr.bio.link
+## http://arnav.bio.link
 
 ## GitHub Stats
 
