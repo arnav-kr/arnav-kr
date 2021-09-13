@@ -22,6 +22,7 @@
 
 
 ## Featured Repositories
+[![JSON Formatter](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=json-formatter&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/json-formatter)
 
 [![SoloAlert](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=soloalert&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/soloalert)
 
