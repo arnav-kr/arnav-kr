@@ -39,7 +39,7 @@
 [![Dribbble](https://img.shields.io/badge/-Dribbble-e54786?logo=dribbble&logoWidth=20&logoColor=white&style=flat-square)](https://dribbble.com/arnav-kr)
 [![Figma](https://img.shields.io/badge/-Figma-e54786?logo=figma&logoWidth=20&logoColor=white&style=flat-square)](https://figma.com/@arnav-kr)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-f48024?logo=stackoverflow&logoWidth=20&logoColor=white&style=flat-square)](https://stackoverflow.com/users/16281949/arnav-kumar)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?logo=sololearn&logoWidth=20&logoColor=white&style=flat-square)](https://www.sololearn.page.link/arnav)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?logo=sololearn&logoWidth=20&logoColor=white&style=flat-square)](https://sololearn.page.link/arnav)
 
 
 <h3 align="left">Languages and Tools:</h3>
