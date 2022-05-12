@@ -22,6 +22,8 @@
 ## Featured Repositories
 [![JSON Formatter](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=json-formatter&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/json-formatter)
 
+[![DC Tokens](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=dc-tokens&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/dc-tokens)
+
 [![SoloAlert](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=soloalert&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/soloalert)
 
 [![Shikijs](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=shikijs&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/shikijs)
