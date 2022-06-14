@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img width="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Arnav Kumar</h1>
+<h1 align="center">Hi <img width="32px" height="32px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, I'm Arnav Kumar</h1>
 <h3 align="center">A Full Stack Web developer and Designer</h3>
 
 ## http://arnav.bio.link
