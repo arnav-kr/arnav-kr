@@ -18,6 +18,7 @@
 
 <p align="center"> <img alt="Activity" src="https://activity-graph.herokuapp.com/graph?username=arnav-kr&theme=github" /> </p>
 
+<p align="center"> <a href="https://holopin.io/@arnav"> <img alt="Holopin Badges" src="https://holopin.me/arnav" /> </a> </p>
 
 ## Featured Repositories
 [![JSON Formatter](https://github-readme-stats.vercel.app/api/pin/?username=arnav-kr&repo=json-formatter&show_icons=true&theme=github_dark)](https://github.com/arnav-kr/json-formatter)
