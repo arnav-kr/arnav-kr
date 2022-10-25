@@ -187,7 +187,7 @@
 </p>
 
 <p>
-  <a href="https://www.buymeacoffee.com/arnavkr"> <img
+  <a href="https://patreon.com/arnavkr"> <img
       src="https://user-images.githubusercontent.com/72879799/168004698-6393f933-963b-4216-9d9c-55169e89b98f.png"
       width="210" alt="patreon" />
   </a>
