@@ -33,7 +33,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[![Replit](https://img.shields.io/badge/-Repl.it-212121?logo=replit&logoWidth=20&logoColor=f0f0f0&style=flat-square)](https://replit.com/@arnavkr)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoWidth=20&logoColor=white&style=flat-square)](https://twitter.com/arnavkr_)
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=flat-square)](https://medium.com/@arnav-kr)
 [![Dev Community](https://img.shields.io/badge/-Dev.to-212121?logo=devdotto&logoWidth=20&logoColor=white&style=flat-square)](https://dev.to/arnavkr)
